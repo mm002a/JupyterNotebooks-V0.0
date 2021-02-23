@@ -7,6 +7,6 @@ Anything free comes with no guarantee.
 
 Status - 
    1. Initial upload.
-   1. Checking for execution and consistancy Colab and Anaconda
-   1. Synching repositories
-   
+   1. Checking for execution and consistancy Colab and Anaconda (Done 23/2/21)
+   1. Synching repositories (Done23/2/21)
+   1. `Gas Viscosity and Equations of State` - updated Sutherland section.
