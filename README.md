@@ -9,14 +9,14 @@ Anything free comes with no guarantee.
 Upload to GitHub to allow access via Google CoLab (web).
    - [x] Initial upload.
      - Use GitHub desktop to synch.
-     - Edit on local macines **(not on `CoLab` - you don't have permission to save!)**
-   - [ ] Checking for execution and consistancy Colab and Anaconda (Done 23/2/21)
-   - [ ] Synching repositories (Done23/2/21)
+     - Edit on local machines **(not on `CoLab` - you don't have permission to save!)**
+   - [x] Checking for execution and consistancy Colab and Anaconda (Done 23/2/21)
+   - [x] Synching repositories (Done23/2/21)
    1. **Sort out overall structure.**
       - Ordering of notebooks and worksheets.
       - Reflect this in the order below.
    1. `Gas Viscosity and Equations of State` - 
-      - [ ] Update Sutherland section. (Done 24/2)
+      - [x] Update Sutherland section. (Done 24/2)
       - [ ] Develop some questions for this - (calculate the viscosity of...)
       - [ ] Sort out the later sections of this worksheet and do some more questions.  
  
