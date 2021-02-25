@@ -6,10 +6,19 @@ Anything free comes with no guarantee.
 **(Also the attached MIT license applies.)**
 
 Status - 
-   1. Initial upload.
-   1. Checking for execution and consistancy Colab and Anaconda (Done 23/2/21)
-   1. Synching repositories (Done23/2/21)
+   - [ ] Initial upload.
+   - [ ] Checking for execution and consistancy Colab and Anaconda (Done 23/2/21)
+   - [ ] Synching repositories (Done23/2/21)
    1. `Gas Viscosity and Equations of State` - 
       - Update Sutherland section. (Done 24/2)
       - Develop some questions for this - (calculate the viscosity of...)
-      - Sort out the later sections of this wroksheet and do some more questions.
+      - Sort out the later sections of this worksheet and do some more questions.  
+ 
+ text divider
+ - [ ] Initial upload.
+   [ ] Checking for execution and consistancy Colab and Anaconda (Done 23/2/21)
+   [ ]Synching repositories (Done23/2/21)
+   [ ]`Gas Viscosity and Equations of State` - 
+      - Update Sutherland section. (Done 24/2)
+      - Develop some questions for this - (calculate the viscosity of...)
+      - Sort out the later sections of this worksheet and do some more questions.
