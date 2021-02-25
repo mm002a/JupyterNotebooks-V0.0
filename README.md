@@ -13,8 +13,8 @@ Upload to GitHub to allow access via Google CoLab (web).
    - [ ] Checking for execution and consistancy Colab and Anaconda (Done 23/2/21)
    - [ ] Synching repositories (Done23/2/21)
    1. **Sort out overall structure.**
-     - Ordering of notebooks and worksheets.
-     - Reflect this in the order below.
+      - Ordering of notebooks and worksheets.
+      - Reflect this in the order below.
    1. `Gas Viscosity and Equations of State` - 
       - [ ] Update Sutherland section. (Done 24/2)
       - [ ] Develop some questions for this - (calculate the viscosity of...)
