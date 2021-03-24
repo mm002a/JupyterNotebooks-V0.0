@@ -8,9 +8,6 @@ Feedback is welcome.
 Anything free comes with no guarantee.
 **(Also the attached MIT license applies.)**
 
-### Usage notes
-   1. Preview (interpret Markdown): right mouse click in the tab and select <Show Markdown Preview>
-
 ### Status - 
 Upload to [GitHub](https://github.com/) (ID:mm002a) to allow access via Google [CoLab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true) (web).
    - [x] Initial upload.
@@ -29,3 +26,11 @@ Upload to [GitHub](https://github.com/) (ID:mm002a) to allow access via Google [
       - [ ] Develop some questions for this - (calculate the viscosity of...)
       - [ ] Sort out the later sections of this worksheet and do some more questions.  
  
+### Usage notes
+   - CoLab *approximately* (https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
+      1. This repository resides at https://github.com/mm002a (you should not need to get permission from the owner)
+      2. Under Windows you might to use GitHub desktop to synch. Download from [here](https://desktop.github.com/)
+      3. An introduction to git? Try [here](https://medium.com/@itswisdomagain/git-101-introduction-to-git-for-newbies-bb14f6f9fc1)
+      4. An introduction to Github? Try [here](https://lab.github.com/githubtraining/introduction-to-github)
+   - JupyterLab
+      3. Preview (interpret Markdown): right mouse click in the tab and select <Show Markdown Preview>
