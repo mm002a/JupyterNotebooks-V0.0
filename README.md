@@ -21,16 +21,27 @@ Upload to [GitHub](https://github.com/) (ID:mm002a) to allow access via Google [
    1. **Sort out overall structure.**
       - Ordering of notebooks and worksheets.
       - Reflect this in the order below.
-   1. `Gas Viscosity and Equations of State` - 
+   1. `GasEqns101` -
+      - A Notebook containing basic implementations of many of the Gas Transport formulae including:
+        - Weymouth, AGA, Simplified Isothermal based on Colebrook-White
+      - Also three simple case studies.
+      - Leak Case is INCOMPLETE.
+   3. `Gas Compressibility` (GasCompressibilityJT) -
+      - Peng-Robinson. (Done 19/1/22)
+      - Joule-Thomson Cooling
+      - Includes some work for the Frigg Case Study.
+      - CNGA section - UNDER REVIEW.
+   4. `Gas Viscosity and Equations of State` - 
       - [x] Update Sutherland section. (Done 24/2)
       - [ ] Develop some questions for this - (calculate the viscosity of...)
       - [ ] Sort out the later sections of this worksheet and do some more questions.  
  
 ### Usage notes
    - CoLab *approximately* (https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
-      1. This repository resides at https://github.com/mm002a (you should not need to get permission from the owner)
-      2. Under Windows you might to use GitHub desktop to synch. Download from [here](https://desktop.github.com/)
-      3. An introduction to git? Try [here](https://medium.com/@itswisdomagain/git-101-introduction-to-git-for-newbies-bb14f6f9fc1)
-      4. An introduction to Github? Try [here](https://lab.github.com/githubtraining/introduction-to-github)
+      1. This repository resides at https://github.com/mm002a/JupyterNotebooks-V0.0 (you should not need to get permission from the owner)
+      2. You will need to create a copy of any notebooks - if you wish to save changes. Colab<File=>Save a copy ...  
+      - Under Windows you might to use GitHub desktop to synch. Download from [here](https://desktop.github.com/)
+      4. An introduction to git? Try [here](https://medium.com/@itswisdomagain/git-101-introduction-to-git-for-newbies-bb14f6f9fc1)
+      5. An introduction to Github? Try [here](https://lab.github.com/githubtraining/introduction-to-github)
    - JupyterLab
       3. Preview (interpret Markdown): right mouse click in the tab and select <Show Markdown Preview>
