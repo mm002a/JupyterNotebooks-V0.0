@@ -42,3 +42,10 @@ Uploaded to [GitHub](https://github.com/) (ID:mm002a) to allow access via Google
       - [x] Update Sutherland section. (Done 24/2)
       - [ ] Develop some questions for this - (calculate the viscosity of...)
       - [ ] Sort out the later sections of this worksheet and do some more questions.  
+   5. `Erosion and deposition of (sand) particles` -  
+      - [ ] Develop this into a worksheet.
+   6. `Production decline curves` -  
+      - [ ] Complete write-up.
+      - [ ] Look at the Nutall code.
+      - [ ] Work on (?unit?) tests.
+      - [ ] Work on hybrid decline curves: hyperbolic to exponential (etc.)
