@@ -49,3 +49,6 @@ Uploaded to [GitHub](https://github.com/) (ID:mm002a) to allow access via Google
       - [ ] Look at the Nutall code.
       - [ ] Work on (?unit?) tests.
       - [ ] Work on hybrid decline curves: hyperbolic to exponential (etc.)
+   7. `Buckley-Leverett (water breakthrough analysis)` -
+      - Case study due to Chuck Norman - Tiorco Inc
+      - [ ] Three case studies due to Dake P358.
